@@ -1,0 +1,8 @@
+body{
+  background:url('http://elpersonalista.com/wp-content/uploads/2017/01/libros-biblioteca-libreria-colores.jpg');
+margin-top: 70px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+}
